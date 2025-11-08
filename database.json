@@ -1,0 +1,15 @@
+{
+  "meeting_requests": [
+    {
+      "id": 1,
+      "name": "Emircan Abay",
+      "email": "emircanabay73@gmail.com",
+      "phone": "05350517163",
+      "preferredDate": "2026-02-23",
+      "preferredTime": "15:00",
+      "message": "",
+      "status": "rejected",
+      "createdAt": "2025-11-07T14:22:04.761Z"
+    }
+  ]
+}
